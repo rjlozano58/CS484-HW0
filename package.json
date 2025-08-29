@@ -1,10 +1,6 @@
 {
   "name": "hw0",
   "homepage": "http://rjlozano58.github.io/CS484-HW0",
-<<<<<<< HEAD
-  "private": true,
-=======
->>>>>>> 74bc20a (added deployed url in url.txt)
   "version": "0.0.0",
   "type": "module",
   "scripts": {
